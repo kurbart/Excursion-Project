@@ -1,0 +1,40 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+h3 {
+  color: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+.nav {
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+.jumbotron {
+  background-color: black;
+  text-align: center;
+}
+.coming {
+  text-align: center;
+}
+.footer {
+  text-align: right !important;
+  color: gray;
+}
